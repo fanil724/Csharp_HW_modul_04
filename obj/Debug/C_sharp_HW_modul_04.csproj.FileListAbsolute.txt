@@ -1,0 +1,7 @@
+C:\Users\Фаниль\RiderProjects\C_sharp_HW_modul_04\C_sharp_HW_modul_04\bin\Debug\C_sharp_HW_modul_04.exe
+C:\Users\Фаниль\RiderProjects\C_sharp_HW_modul_04\C_sharp_HW_modul_04\bin\Debug\C_sharp_HW_modul_04.pdb
+C:\Users\Фаниль\RiderProjects\C_sharp_HW_modul_04\C_sharp_HW_modul_04\obj\Debug\C_sharp_HW_modul_04.csproj.AssemblyReference.cache
+C:\Users\Фаниль\RiderProjects\C_sharp_HW_modul_04\C_sharp_HW_modul_04\obj\Debug\C_sharp_HW_modul_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Фаниль\RiderProjects\C_sharp_HW_modul_04\C_sharp_HW_modul_04\obj\Debug\C_sharp_HW_modul_04.csproj.CoreCompileInputs.cache
+C:\Users\Фаниль\RiderProjects\C_sharp_HW_modul_04\C_sharp_HW_modul_04\obj\Debug\C_sharp_HW_modul_04.exe
+C:\Users\Фаниль\RiderProjects\C_sharp_HW_modul_04\C_sharp_HW_modul_04\obj\Debug\C_sharp_HW_modul_04.pdb
